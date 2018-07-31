@@ -1,0 +1,8 @@
+data/dogbreeds/models/*
+data/dogbreeds/test/*
+data/dogbreeds/train/*
+data/dogbreeds/tmp/*
+data/dogbreeds/subm/*
+__pycache__/*
+.DS_Store
+.DS_Store?
