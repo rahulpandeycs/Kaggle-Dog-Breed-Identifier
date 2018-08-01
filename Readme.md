@@ -19,7 +19,7 @@ test.zip - the test set, you must predict the probability of each breed for each
 
 sample_submission.csv - a sample submission file in the correct format
 
-labels.csv - the breeds for the images in the train set
+labels.csv - the breeds for the images in the train set 
 
 ## Project setup: 
 
