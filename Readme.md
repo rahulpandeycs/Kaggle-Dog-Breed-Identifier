@@ -12,9 +12,13 @@
 -> download data from https://www.kaggle.com/c/dog-breed-identification/data, and extract it in the data folder.
 
 File descriptions
+
 train.zip - the training set, you are provided the breed for these dogs
+
 test.zip - the test set, you must predict the probability of each breed for each image
+
 sample_submission.csv - a sample submission file in the correct format
+
 labels.csv - the breeds for the images in the train set
 
 ## Project setup: 
