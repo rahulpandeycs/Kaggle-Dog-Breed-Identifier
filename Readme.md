@@ -6,6 +6,7 @@
 -> You have Anaconda already installed in your system
 -> conda package manager is installed
 -> pip is installed correctly, make sure you check step  1 and 2 of trouble shoot for correct pip installation 
+-> download data from https://www.kaggle.com/c/dog-breed-identification/data, and extract it in the data folder.
 
 
 ## Project setup: 
